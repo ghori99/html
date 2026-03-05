@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>My Website</title>
+
+<style>
+body{
+    font-family: Arial;
+    margin:0;
+}
+
+header{
+    background-color: lightblue;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background-color: lightgray;
+    text-align:center;
+    padding:10px;
+}
+
+nav a{
+    margin:10px;
+    text-decoration:none;
+    font-weight:bold;
+    color:black;
+}
+
+section{
+    padding:20px;
+}
+
+footer{
+    background-color: lightpink;
+    color:black;
+    text-align:center;
+    padding:10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>My First Website</h1>
+<p>Welcome to my website</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Services</a>
+<a href="#">Contact</a>
+</nav>
+
+<section>
+<h2>About Us</h2>
+<p>This is a simple website made using HTML and CSS.</p>
+<img src="img_chania.jpg" alt="Flowers in Chania">
+
+
+<h2>DDU UNIVERSITY</h2>
+<ul>
+<li>Multimedia hall</li>
+<li>play ground</li>
+<li>Cafeteria</li>
+</ul>
+</section>
+
+<footer>
+<p>© 2026 My Website</p>
+</footer>
+<button>Submit</button>
+
+</body>
+</html>
+
